@@ -1,1 +1,1 @@
-# Human Resources(HR)- Business Intelligence BI solution
+# Human Resources(HR) - Business Intelligence BI solution
