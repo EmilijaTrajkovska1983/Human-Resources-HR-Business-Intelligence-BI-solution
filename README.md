@@ -1,2 +1,1 @@
 # Human Resources(HR)- Business Intelligence BI solution
-My (HR) Business Intelligence (BI) solution includes four report pages: Department, Actives, Separations, and Recruitment.Each page provides visualizations and insights on employee management, covering total employees, turnover ratios, demographics, and recruitment sources. Users can filter data by department, year, quarter, facilitating thorough analysis for informed decision-making.
